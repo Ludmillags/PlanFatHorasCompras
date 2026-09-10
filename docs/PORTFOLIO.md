@@ -14,13 +14,8 @@ Este projeto registra uma aplicação prática de Excel habilitado para macros u
 
 **Visão de negócio:** conexão entre tecnologia, controles administrativos, engenharia e compras.
 
-## Como apresentar em entrevista
+Desenvolvi uma ferramenta em Excel/VBA para organizar e acompanhar indicadores operacionais. O projeto surgiu da necessidade de tornar informações de rotina mais estruturadas e fáceis de acompanhar, reduzindo atividades manuais e melhorando a visibilidade para tomada de decisão.
 
-Uma forma simples de apresentar o projeto é:
-
-> Desenvolvi uma ferramenta em Excel/VBA para organizar e acompanhar indicadores operacionais. O projeto surgiu da necessidade de tornar informações de rotina mais estruturadas e fáceis de acompanhar, reduzindo atividades manuais e melhorando a visibilidade para tomada de decisão.
-
-## Sugestão para currículo
 
 **Projeto Excel/VBA — Indicadores Operacionais**  
 Desenvolvimento de ferramenta em Excel habilitada para macros para organização e acompanhamento de KPIs, aplicando automação de rotinas, estruturação de dados e visão gerencial.
